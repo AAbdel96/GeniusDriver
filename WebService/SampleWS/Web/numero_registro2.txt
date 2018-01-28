@@ -1,0 +1,572 @@
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [dia] => Monday
+            [numero] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [dia] => Tuesday
+            [numero] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [dia] => Wednesday
+            [numero] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [dia] => Thursday
+            [numero] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [dia] => Friday
+            [numero] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [dia] => Saturday
+            [numero] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [dia] => Sunday
+            [numero] => 0
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [dia] => Monday
+            [numero] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [dia] => Tuesday
+            [numero] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [dia] => Wednesday
+            [numero] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [dia] => Thursday
+            [numero] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [dia] => Friday
+            [numero] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [dia] => Saturday
+            [numero] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [dia] => Sunday
+            [numero] => 0
+        )
+
+)
+MondayArray
+(
+    [0] => Array
+        (
+            [id] => 1
+            [dia] => Monday
+            [numero] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [dia] => Tuesday
+            [numero] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [dia] => Wednesday
+            [numero] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [dia] => Thursday
+            [numero] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [dia] => Friday
+            [numero] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [dia] => Saturday
+            [numero] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [dia] => Sunday
+            [numero] => 0
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [dia] => Monday
+            [numero] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [dia] => Tuesday
+            [numero] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [dia] => Wednesday
+            [numero] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [dia] => Thursday
+            [numero] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [dia] => Friday
+            [numero] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [dia] => Saturday
+            [numero] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [dia] => Sunday
+            [numero] => 0
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [dia] => Monday
+            [numero] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [dia] => Tuesday
+            [numero] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [dia] => Wednesday
+            [numero] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [dia] => Thursday
+            [numero] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [dia] => Friday
+            [numero] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [dia] => Saturday
+            [numero] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [dia] => Sunday
+            [numero] => 0
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [dia] => Monday
+            [numero] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [dia] => Tuesday
+            [numero] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [dia] => Wednesday
+            [numero] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [dia] => Thursday
+            [numero] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [dia] => Friday
+            [numero] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [dia] => Saturday
+            [numero] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [dia] => Sunday
+            [numero] => 0
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [dia] => Monday
+            [numero] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [dia] => Tuesday
+            [numero] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [dia] => Wednesday
+            [numero] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [dia] => Thursday
+            [numero] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [dia] => Friday
+            [numero] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [dia] => Saturday
+            [numero] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [dia] => Sunday
+            [numero] => 0
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [dia] => Monday
+            [numero] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [dia] => Tuesday
+            [numero] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [dia] => Wednesday
+            [numero] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [dia] => Thursday
+            [numero] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [dia] => Friday
+            [numero] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [dia] => Saturday
+            [numero] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [dia] => Sunday
+            [numero] => 0
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [dia] => Monday
+            [numero] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [dia] => Tuesday
+            [numero] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [dia] => Wednesday
+            [numero] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [dia] => Thursday
+            [numero] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [dia] => Friday
+            [numero] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [dia] => Saturday
+            [numero] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [dia] => Sunday
+            [numero] => 0
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [dia] => Monday
+            [numero] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [dia] => Tuesday
+            [numero] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [dia] => Wednesday
+            [numero] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [dia] => Thursday
+            [numero] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [dia] => Friday
+            [numero] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [dia] => Saturday
+            [numero] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [dia] => Sunday
+            [numero] => 0
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [dia] => Monday
+            [numero] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [dia] => Tuesday
+            [numero] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [dia] => Wednesday
+            [numero] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [dia] => Thursday
+            [numero] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [dia] => Friday
+            [numero] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [dia] => Saturday
+            [numero] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [dia] => Sunday
+            [numero] => 0
+        )
+
+)

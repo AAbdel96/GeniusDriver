@@ -1,0 +1,135 @@
+#perfil
+{
+	position:relative;
+  	margin: 0px auto;
+  	width: 900px;
+  	background: #fff;
+  	border-color:#c4c4c4;
+	font-family: Ubuntu, sans-serif;
+}
+
+.titulo-perfil
+{
+	position:relative;
+	width:100%;
+	margin: 0px auto 20px auto;
+	padding: 15px 25px;
+	font-size: 30px;
+  	color: #6E6E6E;
+  	text-align:center;
+ 	background:#DEDEDE;
+	text-transform: capitalize; /*Cambiar la apariencia del texto en mayusculas, cada primera letra en capital, texto en minusculas,...*/
+    font-weight:bold;
+	word-spacing: 5px;
+	font-family:inherit;
+}
+
+form
+{
+	position:relative;
+	padding: 0px 20px;
+	overflow:hidden;
+	font-family:inherit;
+}
+
+.columna-principal-perfil
+{
+	position:relative;
+	display:block;
+	width:100%;
+	overflow:hidden;
+	margin:20px 0px 10px 0px;
+}
+
+.columna-uno-perfil
+{
+	display:inline-block;
+	position:relative;
+	width:49%;
+	float:left;
+	overflow:hidden;
+}
+
+.columna-dos-perfil
+{
+	position:relative;
+	display: inline-block;
+	width:49%;
+	float:right;
+	overflow:hidden;
+}
+
+.label-titulo
+{
+	display:block;
+	font-size:18px;
+	letter-spacing: 1px; /*Espacio entre letras*/
+	word-spacing: normal; /*Espacio entre palabras*/
+	font-family:inherit;
+}
+
+
+
+.login-input
+{
+	display:block;
+	padding: 15px;
+	border-right-style: solid;
+    border-right-color: rgb(200, 200, 200);
+    border-bottom-style: solid;
+    border-bottom-color: rgb(200, 200, 200);
+	width:100%;
+	margin: 15px 0px;
+	-webkit-appearance: textfield;
+	-moz-appearance: textfield;
+	appearance:textfield; /*Apariencia del elemento en un boton, icono, cuadro de texto,...*/
+    background-color: white;
+    user-select: text; /*Para poder seleccionar el texto*/
+    cursor: auto;
+	/*text-rendering: auto; Puede ser util para optimizar parrafos de texto*/
+    /*text-indent: 0px; tabulacion al principio de una frase*/
+	font-family:inherit;
+	font-size:15px;
+}
+
+.login-input:hover
+{
+    color: #000;
+    background-color: #bbb;
+}
+
+.botones-perfil
+{
+	position:relative;
+	display:block;
+	border:solid 1px yellow;
+	margin:20px auto;
+	width: auto;
+	overflow:hidden;
+	float:right;
+	width:40%;
+	
+}
+
+.boton-guardar, .boton-cancelar
+{
+	position:relative;
+	display:inline-block;
+  	height: 50px;
+	margin-right:35px;
+  	font-size: 20px;
+	padding:10px 20px;
+  	color: #fff;
+  	text-align: center;
+  	background: #f0776c;
+  	border-radius: 5px;
+  	cursor: pointer;
+	font-family:inherit;
+	font-weight:bold;
+	border:0;
+}
+
+.boton-guardar:hover, .boton-cancelar:hover
+{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}

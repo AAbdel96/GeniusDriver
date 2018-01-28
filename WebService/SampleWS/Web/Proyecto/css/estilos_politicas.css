@@ -1,0 +1,39 @@
+#politicas
+{
+	position:relative;
+	display:block;
+	width: 90%;
+	background-color:#fff;
+	margin:0px auto;
+	padding:20px 20px 20px 20px;
+}
+
+h1
+{
+	display:block;
+	position:relative;
+	font-size:20px;
+	letter-spacing: 1px; /*Espacio entre letras*/
+	word-spacing: normal; /*Espacio entre palabras*/
+	font-family:inherit;
+	margin:0px 0px 20px 0px;
+}
+
+p
+{
+	text-align:justify;
+	color:#666;
+	margin-bottom:20px;
+}
+
+a
+{
+	text-decoration:none;
+	color:#00F;
+}
+
+a:hover
+{
+	text-decoration:underline;
+	color:#00F;
+}

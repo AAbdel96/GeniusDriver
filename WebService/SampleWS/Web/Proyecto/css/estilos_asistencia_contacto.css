@@ -1,0 +1,52 @@
+#asistencia-contacto
+{
+	position:relative;
+	display:table;
+	width: 70%;
+	background-color:#fff;
+	margin:0px auto;
+	padding:20px 20px 20px 20px;
+	overflow:hidden;
+	clear:both;
+}
+
+.seccion-asistencia
+{
+	position:relative;
+	display:table-column;
+    padding: 20px;
+	width:50%;
+    text-align: left;
+    margin: 0px auto;
+    float: left;
+	border-right:solid 3px #999999;
+}
+
+.seccion-contacto
+{
+	position:relative;
+	display:table-column;
+    padding: 20px;
+	width:50%;
+    text-align: left;
+    margin: 0px auto;
+    float: right;
+}
+
+h1
+{
+	display:block;
+	position:relative;
+	font-size:20px;
+	letter-spacing: 1px; /*Espacio entre letras*/
+	word-spacing: normal; /*Espacio entre palabras*/
+	font-family:inherit;
+	margin:0px 0px 20px 0px;
+}
+
+p
+{
+	text-align:justify;
+	color:#666;
+	margin-bottom:20px;
+}

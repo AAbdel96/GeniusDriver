@@ -1,0 +1,108 @@
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [modelo] => Captur
+            [numero] => 20
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [modelo] => Golf
+            [numero] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [modelo] => Q3
+            [numero] => 5
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [modelo] => Megane
+            [numero] => 2
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [modelo] => Clio
+            [numero] => 90
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [modelo] => A6
+            [numero] => 5
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [modelo] => Scirocco
+            [numero] => 3
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [modelo] => Passat
+            [numero] => 4
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [modelo] => Polo
+            [numero] => 0
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [modelo] => R8
+            [numero] => 0
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [modelo] => Ibiza
+            [numero] => 10
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [modelo] => Toledo
+            [numero] => 0
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [modelo] => Leon
+            [numero] => 5
+        )
+
+    [13] => Array
+        (
+            [id] => 14
+            [modelo] => Ateca
+            [numero] => 1
+        )
+
+    [14] => Array
+        (
+            [id] => 15
+            [modelo] => A1
+            [numero] => 0
+        )
+
+)

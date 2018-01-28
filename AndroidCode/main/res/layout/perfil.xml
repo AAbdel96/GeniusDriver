@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    android:weightSum="1"
+    >
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/guardar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true"
+        app:menu="@menu/main"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:background="#FFFFFF"
+        android:paddingLeft="10dp"
+        android:layout_marginTop="50px"
+        android:layout_marginRight="20px"
+        >
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/user"
+            android:paddingRight="20px"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Nombre"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+
+                    android:layout_marginTop="5dp"
+                    android:padding="2dp"
+                    android:textColor="#489e37"
+                    />
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/nombre"
+
+                    android:textSize="16dip"/>
+
+                <EditText
+                    android:singleLine="true"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="top|left"
+                    android:id="@+id/editext_nombre"
+                    android:alpha="0"
+                    android:maxLength="30"
+                    />
+            </LinearLayout>
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:layout_alignParentRight="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Cambiar"
+                    android:id="@+id/cambiar_nombre"/>
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:background="#FFFFFF"
+        android:paddingLeft="10dp"
+        android:layout_marginRight="20px"
+        >
+
+        <ImageView
+
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/email"
+            android:paddingRight="20px"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Correo"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+
+                    android:layout_marginTop="5dp"
+                    android:padding="2dp"
+                    android:textColor="#489e37"
+
+                    />
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/correo"
+                    android:maxLength="20"
+                    android:textSize="16dip"/>
+
+                <EditText
+                    android:singleLine="true"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="top|left"
+                    android:alpha="0"
+                    android:id="@+id/editext_correo"
+                    android:maxLength="20"/>
+            </LinearLayout>
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:layout_alignParentRight="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Cambiar"
+                    android:id="@+id/cambiar_email"/>
+            </RelativeLayout>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:orientation="horizontal"
+        android:background="#FFFFFF"
+        android:paddingLeft="10dp"
+        android:layout_marginRight="20px"
+        >
+
+        <ImageView
+
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/clave"
+            android:paddingRight="20px"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Contraseña"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+
+                    android:layout_marginTop="5dp"
+                    android:padding="2dp"
+                    android:textColor="#489e37"
+                    />
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/contrasena"
+                    android:textSize="16dip"
+                    android:maxLength="8"/>
+
+                <EditText
+                    android:singleLine="true"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="top|left"
+                    android:alpha="0"
+                    android:id="@+id/contrasena_vieja"
+                    android:inputType="textPassword"
+                    android:maxLength="20"
+                    />
+                <EditText
+                    android:singleLine="true"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="top|left"
+                    android:alpha="0"
+                    android:id="@+id/contrasena_nueva"
+                    android:inputType="textPassword"
+                    android:maxLength="20"
+                    />
+            </LinearLayout>
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:layout_alignParentRight="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Cambiar"
+                    android:id="@+id/cambiar_contrasena"/>
+            </RelativeLayout>
+        </LinearLayout>
+</LinearLayout>
+</LinearLayout>
